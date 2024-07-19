@@ -1,8 +1,8 @@
-# 🚀 Backend Developer | Software Engineering Student | Node.js 
+# 🚀 JavaScript | TypeScript Developer
 
 
 ## About Me:
-I'm a software engineering student with a focus on backend development. I've been actively involved in developing pet-projects and contributing to startups, primarily using Node.js. I'm passionate about learning new technologies and collaborating with teams to create high-quality products.
+I'm a software engineer with a focus on backend development. I'm passionate about learning new technologies and collaborating with teams to create high-quality products.
 
 ## Skills:
 - JavaScript
@@ -16,11 +16,6 @@ I'm a software engineering student with a focus on backend development. I've bee
 - Object-Oriented Programming (OOP)
 - SOLID Principles
 - Data Structures/Algorithms
-
-## Experience:
-- Developed backend for a hotel website using Node.js, Nest.js, TypeScript, and MongoDB with Mongoose.
--  Currently working on educational applications.
-
 
 ## Current Technology Stack:
 - ![Node.js](https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=%23339933&labelColor=white&color=%23339933)
